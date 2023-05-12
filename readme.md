@@ -4,4 +4,4 @@ This Block is used to fetch all activities of course modules of particular Cours
 
 ## Block Format
 
-Course Module Id - Activity Name - Ativity Creation Time - Activity Completion State
+Course Module Id - Activity Name - Activity Creation Time - Activity Completion State
